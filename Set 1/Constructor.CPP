@@ -15,8 +15,9 @@ cout<<"The result="<<sum;
 };
 void main(){
 cadd obj1;
-clrscr;
+clrscr();
 cout<<"Implementation of Constructor:\n";
 obj1.adddata();
 getch();
 }
+
